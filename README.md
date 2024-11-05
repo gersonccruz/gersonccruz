@@ -1,5 +1,5 @@
-👋 Olá, meu nome é Gerson. Sou estudante de engenharia da computação 
-🚀 Tenha conhecimentos básicos de C e Python. 
-🌱 Atualmente estou estudando a lógica de programação.  
-👨‍💻 Pretendo aprender a solucionar problemas e ajudar em projetos. 
-📫 Pode me encontrar no Linkdlin: [www.linkedin.com/in/gersoneto].
+👋 Hi, my name is Gerson. I'm a computer engineering student.  
+🚀 I have basic knowledge of C and Python.  
+🌱 Currently studying programming logic.  
+👨‍💻 I aim to learn problem-solving and contribute to projects.  
+📫 You can find me on LinkedIn: (https://www.linkedin.com/in/gersoneto).
