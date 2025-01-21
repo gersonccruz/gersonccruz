@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gerson and my nickname is "gersonccruz"!
-- 📚 I am currently studying Computer Engineering at university
-- 🖱 I spend my free time studying programming
-- 🚶‍♂️ Participating in the ONE Oracle program
+- 📚 *I am currently studying Computer Engineering at university*
+- 🖱 *I spend my free time studying programming*
+- 🚶‍♂️ *Participating in the ONE Oracle program*
 
 ### Technologies and Tools
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" height="80"/>
